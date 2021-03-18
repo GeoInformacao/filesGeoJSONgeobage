@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "LINHAS_TRANSMISSAO",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4674" } },
+"features": [
+{ "type": "Feature", "properties": { "Circuitos": "1", "POINT_X": 0.0, "POINT_Y": 0.0, "Situação": "Existente", "Corrente": "Alternada", "Tensão": "230 kV", "Shape_STLe": 2.1538473592499998, "code_mn": 4301602.0, "name_mn": "Bagé", "cod_stt": "43", "abbrv_s": "RS" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -53.934421893037772, -31.472136030558659 ], [ -53.960879591999969, -31.454705075999982 ] ] ] } },
+{ "type": "Feature", "properties": { "Circuitos": "1", "POINT_X": 0.0, "POINT_Y": 0.0, "Situação": "Existente", "Corrente": "Alternada", "Tensão": "230 kV", "Shape_STLe": 0.17552912611, "code_mn": 4301602.0, "name_mn": "Bagé", "cod_stt": "43", "abbrv_s": "RS" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -53.960879591999969, -31.454705075999982 ], [ -53.928703559020413, -31.445139228383255 ] ] ] } },
+{ "type": "Feature", "properties": { "Circuitos": "1", "POINT_X": 0.0, "POINT_Y": 0.0, "Situação": "Existente", "Corrente": "Alternada", "Tensão": "230 kV", "Shape_STLe": 2.82304103321, "code_mn": 4301602.0, "name_mn": "Bagé", "cod_stt": "43", "abbrv_s": "RS" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -53.960879591999969, -31.454705075999982 ], [ -54.410405941283031, -31.273444451171109 ] ] ] } },
+{ "type": "Feature", "properties": { "Circuitos": "1", "POINT_X": 0.0, "POINT_Y": 0.0, "Situação": "Existente", "Corrente": "Alternada", "Tensão": "230 kV", "Shape_STLe": 2.5061356471199998, "code_mn": 4301602.0, "name_mn": "Bagé", "cod_stt": "43", "abbrv_s": "RS" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -53.664654132434855, -30.842505792709012 ], [ -53.665764197370528, -30.844799926910124 ] ], [ [ -53.66943975239645, -30.852396073966041 ], [ -53.849451189282526, -31.22441971031256 ] ], [ [ -53.949140235974198, -31.430443740205867 ], [ -53.960879591999969, -31.454705075999982 ] ] ] } }
+]
+}
