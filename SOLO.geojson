@@ -1,6 +1,6 @@
 {
 "type": "FeatureCollection",
-"name": "SOLO_BAGE",
+"name": "SOLO",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4674" } },
 "features": [
 { "type": "Feature", "properties": { "code_mn": 4301602.0, "name_mn": "Bagé", "cod_stt": "43", "abbrv_s": "RS", "PROCESSO": "810125\/1978", "ID": "{18FF91F7-FA66-4634-B4C5-9B95C3A9A2A3}", "NUMERO": 810125, "ANO": 1978, "AREA_HA": 983.34, "FASE": "REQUERIMENTO DE LAVRA", "ULT_EVENTO": "336 - REQ LAV\/DOCUMENTO DIVERSO PROTOCOLIZADO EM 10\/09\/2018", "NOME": "Mineração Santa Maria Ltda.", "SUBS": "MINÉRIO DE CHUMBO", "USO": "Industrial", "UF": "RS" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -53.472902554672665, -30.954815282565129 ], [ -53.477507328190711, -30.951850007095686 ], [ -53.476476549407003, -30.949915663995299 ], [ -53.471063559259917, -30.948799348500842 ], [ -53.4710638439999, -30.955007512999941 ], [ -53.471858303999909, -30.955007483999907 ], [ -53.471858292999912, -30.954815364999945 ], [ -53.472902554672665, -30.954815282565129 ] ] ] ] } },
