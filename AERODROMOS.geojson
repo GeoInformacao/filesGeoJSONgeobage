@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "AERODROMOS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "C�DIGO O": "SIBK", "NOME": "Aeroclube de Bag�", "MUNIC�PI": "Bag�", "UF": "RS", "LATITUDE": "31� 19' 40\" S", "LONGITUDE": "54� 8' 9\" W", "ALTITUDE": "222 m", "OPERA���": "VFR Diurna", "PISTA DE P": "11\/29", "COMPRIMENT": "570 m", "LARGURA": "30 m", "RESIST�N": "4000kg\/0 50MPa", "SUPERF�C": "Grama" }, "geometry": { "type": "Point", "coordinates": [ -54.135833333333331, -31.327777777777779 ] } },
+{ "type": "Feature", "properties": { "C�DIGO O": "SJXA", "NOME": "Aeromis", "MUNIC�PI": "Bag�", "UF": "RS", "LATITUDE": "31� 17' 32\" S", "LONGITUDE": "54� 9' 22\" W", "ALTITUDE": "270 m", "OPERA���": "VFR Diurna", "PISTA DE P": "18\/36", "COMPRIMENT": "420 m", "LARGURA": "18 m", "RESIST�N": "3000kg\/0,50MPa", "SUPERF�C": "Grama" }, "geometry": { "type": "Point", "coordinates": [ -54.156111111111109, -31.292222222222222 ] } },
+{ "type": "Feature", "properties": { "C�DIGO O": "SBBG", "NOME": "Comandante Gustavo Kramer", "MUNIC�PI": "Bag�", "UF": "RS", "LATITUDE": "31� 23' 27'' S", "LONGITUDE": "54� 6' 35'' W", "ALTITUDE": "186 m", "OPERA���": "VFR Diurno\/Noturno e IFR Diurno\/Noturno", "PISTA DE P": "06\/24", "COMPRIMENT": "1500 m", "LARGURA": "30 m", "RESIST�N": "PCN 18\/R\/A\/Y\/T", "SUPERF�C": "Concreto" }, "geometry": { "type": "Point", "coordinates": [ -54.109722222222224, -31.390833333333333 ] } }
+]
+}
